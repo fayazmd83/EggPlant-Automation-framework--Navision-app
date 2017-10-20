@@ -1,0 +1,4 @@
+Customer,Project,Place
+C00001 - SOGETI UK - INDIRECT CUSTOMER,PMS_004 - SOGETI - BENCH,BRANCH - SOGETI UK
+C00634 - Historic Royal Palaces, HRP_002 - BOS Regression, ONSITE - Client site in GB
+
